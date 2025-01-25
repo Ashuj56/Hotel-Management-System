@@ -5,12 +5,19 @@ A Hotel Management System developed using Java AWT (Abstract Window Toolkit) to 
 
 Features
 Room Management: Add, update, and delete room details.
+
 Booking Management: Book rooms for customers with options for check-in and check-out.
+
 Customer Information: Manage customer details for smooth operations.
+
 Billing: Generate bills for customer stays.
+
 Search Functionality: Easily search for rooms based on availability and customer details.
+
 User-Friendly Interface: Built using Java AWT, ensuring ease of use for hotel staff.
+
 Installation
+
 Clone the repository to your local machine:
 
 bash
