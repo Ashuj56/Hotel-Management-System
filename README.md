@@ -1,4 +1,6 @@
-Hotel Management System
+**Hotel Management System**
+
+
 A Hotel Management System developed using Java AWT (Abstract Window Toolkit) to simplify the management of hotel operations. This application allows hotel staff to manage bookings, check-in/check-out processes, room availability, and more. The system is designed to provide an intuitive user interface with basic functionalities for hotel management.
 
 Features
